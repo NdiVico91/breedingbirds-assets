@@ -4,7 +4,7 @@
     "description": "Guida introduttiva alla cura e gestione dei canarini.",
     "url": "https://shop.hobbyuccelli.it/content/20-canarini.html",
     "source": "HobbyUccelli.it",
-    "imageUrl": "https://shop.hobbyuccelli.it/img/cms/canarini.jpg"
+    "imageUrl": "https://shop.hobbyuccelli.it/img/cms/canarini.jpg",
 	"lang": "it"
   },
   {
@@ -12,7 +12,7 @@
     "description": "Una storia concreta di gestione di una malattia comune.",
     "url": "https://canarifife.blogspot.com/2017/03/vaiolo-del-canarino.html",
     "source": "CanariFife Blog",
-    "imageUrl": "https://canarifife.blogspot.com/example.jpg"
+    "imageUrl": "https://canarifife.blogspot.com/example.jpg",
 	"lang": "it"
   }
 ]
