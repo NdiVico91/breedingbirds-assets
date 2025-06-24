@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Zanussi Pet Shop",
+    "description": "Zubehör und Futter für Vögel",
+    "url": "https://www.zanussipetshop.it",
+    "source": "zanussipetshop.it",
+    "imageUrl": "https://www.zanussipetshop.it/img/logo.png"
+  },
+  {
+    "title": "Ornitalia",
+    "description": "Ernährung und Zubehör für Züchter",
+    "url": "https://www.ornitalia.com",
+    "source": "ornitalia.com",
+    "imageUrl": "https://www.ornitalia.com/wp-content/uploads/2020/05/logo.png"
+  },
+  {
+    "title": "Tropial",
+    "description": "Futter und Ergänzungen für die Ornithologie",
+    "url": "https://www.tropial.it",
+    "source": "tropial.it",
+    "imageUrl": "https://www.tropial.it/images/logo.png"
+  },
+  {
+    "title": "Il Verde Mondo",
+    "description": "Produkte für die Vogelpflege",
+    "url": "https://www.ilverdemondo.it",
+    "source": "ilverdemondo.it",
+    "imageUrl": "https://www.ilverdemondo.it/wp-content/uploads/2022/03/logo.png"
+  }
+]

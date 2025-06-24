@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Zanussi Pet Shop",
+    "description": "Accessoires et aliments pour oiseaux",
+    "url": "https://www.zanussipetshop.it",
+    "source": "zanussipetshop.it",
+    "imageUrl": "https://www.zanussipetshop.it/img/logo.png"
+  },
+  {
+    "title": "Ornitalia",
+    "description": "Nutrition et accessoires pour éleveurs",
+    "url": "https://www.ornitalia.com",
+    "source": "ornitalia.com",
+    "imageUrl": "https://www.ornitalia.com/wp-content/uploads/2020/05/logo.png"
+  },
+  {
+    "title": "Tropial",
+    "description": "Aliments et compléments pour l’ornithologie",
+    "url": "https://www.tropial.it",
+    "source": "tropial.it",
+    "imageUrl": "https://www.tropial.it/images/logo.png"
+  },
+  {
+    "title": "Il Verde Mondo",
+    "description": "Produits pour le soin des oiseaux",
+    "url": "https://www.ilverdemondo.it",
+    "source": "ilverdemondo.it",
+    "imageUrl": "https://www.ilverdemondo.it/wp-content/uploads/2022/03/logo.png"
+  }
+]
