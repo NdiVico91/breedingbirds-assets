@@ -5,6 +5,7 @@
     "url": "https://shop.hobbyuccelli.it/content/20-canarini.html",
     "source": "HobbyUccelli.it",
     "imageUrl": "https://shop.hobbyuccelli.it/img/cms/canarini.jpg"
+	"lang": "it"
   },
   {
     "title": "Esperienza personale: vaiolo del canarino",
@@ -12,5 +13,6 @@
     "url": "https://canarifife.blogspot.com/2017/03/vaiolo-del-canarino.html",
     "source": "CanariFife Blog",
     "imageUrl": "https://canarifife.blogspot.com/example.jpg"
+	"lang": "it"
   }
 ]
