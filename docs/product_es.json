@@ -1,16 +1,44 @@
 [
   {
-    "nome": "Jaula zincada para canarios 'Cova 55' – Fondo metálico, cuatro comederos.",
-    "descrizione": "",
+    "nome": "Jaula para Canarios 'Cova 55' Galvanizada. Base de Chapa, Cuatro Comederos",
+    "descrizione": "Jaula galvanizada para canarios, ideal para cría. Base de metal, rejilla separable, cuatro comederos y posaderos. Fácil limpieza y mantenimiento.",
     "immagineUrl": "https://m.media-amazon.com/images/I/51nGSSj7W4L._AC_.jpg",
     "linkAmazon": "https://www.amazon.it/dp/B01F8ZH4P0",
-    "prezzoIndicativo": "45,99 €"
+    "prezzoIndicativo": "€45,99"
   },
   {
-    "nome": "Alimento premium para aves tropicales – 1kg",
-    "descrizione": "",
-    "immagineUrl": "https://m.media-amazon.com/images/I/71WxXXXXKPL._AC_SL1500_.jpg",
-    "linkAmazon": "https://www.amazon.it/dp/B08YYYYY/?tag=TUOCODICEAFFILIAZIONE",
-    "prezzoIndicativo": "12,50 €"
+    "nome": "Nido Diamante para Aves Exóticas interior/exterior para Jaula o Aviario",
+    "descrizione": "Caja nido especialmente para pájaros diamante exóticos, se puede usar dentro de jaulas o aviarios. Proporciona refugio y seguridad para la cría.",
+    "immagineUrl": "https://m.media-amazon.com/images/I/51pLIXnus7L._AC_SX679_.jpg",
+    "linkAmazon": "https://www.amazon.it/dp/B008PJHGB4/",
+    "prezzoIndicativo": ""
+  },
+  {
+    "nome": "Ferplast Nido de Madera FSC para Pájaros, Exterior, 11,5×12,5×12 cm",
+    "descrizione": "Pequeña caseta nido de madera certificada FSC de Ferplast, resistente a la intemperie. Ideal para pájaros exóticos o silvestres pequeños.",
+    "immagineUrl": "https://m.media-amazon.com/images/I/61mU1b7rJPL._AC_SX679_.jpg",
+    "linkAmazon": "https://www.amazon.it/dp/B001N03XHI/",
+    "prezzoIndicativo": ""
+  },
+  {
+    "nome": "SWISSINNO Comedero para Pajaritos de Exterior 'Davos' Smart Birds",
+    "descrizione": "Alimentador exterior moderno SWISSINNO ‘Davos’ Smart Birds, diseñado para atraer pájaros pequeños. Robusto y fácil de rellenar.",
+    "immagineUrl": "https://m.media-amazon.com/images/I/41j+IgBk0BL._SS135_.jpg",
+    "linkAmazon": "https://www.amazon.it/dp/B0BGT2TW42/",
+    "prezzoIndicativo": ""
+  },
+  {
+    "nome": "TRIXIE Juguete de Madera y Cuerda para Pájaros, 47 cm",
+    "descrizione": "Juguete colgante de madera natural y cuerda (~47 cm). Estimula el escalado, el balanceo y el juego—perfecto para enriquecer la jaula.",
+    "immagineUrl": "https://m.media-amazon.com/images/I/51VmM4rzTpL._SS135_.jpg",
+    "linkAmazon": "https://www.amazon.it/dp/B0BL7PF3WG/",
+    "prezzoIndicativo": ""
+  },
+  {
+    "nome": "Luca Fabbri – Manual de Ornitología",
+    "descrizione": "Manual italiano de ornitología por Luca Fabbri. Incluye identificación de especies, aves migratorias y residentes en Italia, con notas de campo.",
+    "immagineUrl": "https://m.media-amazon.com/images/I/41sBeUt5hxL._SS135_.jpg",
+    "linkAmazon": "https://www.amazon.it/dp/8866940860/",
+    "prezzoIndicativo": ""
   }
 ]

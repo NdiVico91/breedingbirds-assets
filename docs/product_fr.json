@@ -1,16 +1,44 @@
 [
   {
-    "nome": "Cage pour canaris zinc 'Cova 55' – Fond en tôle, quatre mangeoires.",
-    "descrizione": "",
+    "nome": "Cage pour Canaris 'Cova 55' Galvanisée. Fond en Tôle, Quatre Mangeoires",
+    "descrizione": "Cage galvanisée pour canaris, idéale pour l’élevage. Fond en tôle, grille amovible, quatre mangeoires et perchoirs. Entretien facile.",
     "immagineUrl": "https://m.media-amazon.com/images/I/51nGSSj7W4L._AC_.jpg",
     "linkAmazon": "https://www.amazon.it/dp/B01F8ZH4P0",
-    "prezzoIndicativo": "45,99 €"
+    "prezzoIndicativo": "€45,99"
   },
   {
-    "nome": "Aliment premium pour oiseaux tropicaux – 1kg",
-    "descrizione": "",
-    "immagineUrl": "https://m.media-amazon.com/images/I/71WxXXXXKPL._AC_SL1500_.jpg",
-    "linkAmazon": "https://www.amazon.it/dp/B08YYYYY/?tag=TUOCODICEAFFILIAZIONE",
-    "prezzoIndicativo": "12,50 €"
+    "nome": "Nid Diamant pour Oiseaux Exotiques intérieur / extérieur pour Cage ou Volière",
+    "descrizione": "Nichoir conçu pour oiseaux diamant exotiques, adapté à une cage ou volière. Offre un abri sécurisé pour la reproduction.",
+    "immagineUrl": "https://m.media-amazon.com/images/I/51pLIXnus7L._AC_SX679_.jpg",
+    "linkAmazon": "https://www.amazon.it/dp/B008PJHGB4/",
+    "prezzoIndicativo": ""
+  },
+  {
+    "nome": "Nichoir en Bois Ferplast pour Oiseaux FSC, Extérieur, 11,5×12,5×12 cm",
+    "descrizione": "Petit nichoir en bois certifié FSC de Ferplast, résistant aux intempéries. Parfait pour petits oiseaux exotiques ou sauvages.",
+    "immagineUrl": "https://m.media-amazon.com/images/I/61mU1b7rJPL._AC_SX679_.jpg",
+    "linkAmazon": "https://www.amazon.it/dp/B001N03XHI/",
+    "prezzoIndicativo": ""
+  },
+  {
+    "nome": "Distributeur d’Oiseaux d’Extérieur 'Davos' Smart Birds SWISSINNO",
+    "descrizione": "Mangeoire extérieure moderne SWISSINNO ‘Davos’ Smart Birds, conçue pour attirer les petits oiseaux. Robuste et facile à remplir.",
+    "immagineUrl": "https://m.media-amazon.com/images/I/41j+IgBk0BL._SS135_.jpg",
+    "linkAmazon": "https://www.amazon.it/dp/B0BGT2TW42/",
+    "prezzoIndicativo": ""
+  },
+  {
+    "nome": "Jouet en Bois et Corde TRIXIE pour Oiseaux, 47 cm",
+    "descrizione": "Jouet suspendu en bois naturel et corde (~47 cm). Encourage l’escalade, le balancement et le jeu—pour enrichir la cage.",
+    "immagineUrl": "https://m.media-amazon.com/images/I/51VmM4rzTpL._SS135_.jpg",
+    "linkAmazon": "https://www.amazon.it/dp/B0BL7PF3WG/",
+    "prezzoIndicativo": ""
+  },
+  {
+    "nome": "Luca Fabbri – Manuel d’Ornithologie",
+    "descrizione": "Manuel d’ornithologie italien de Luca Fabbri. Couvre l’identification des espèces, les oiseaux migrateurs et résidents en Italie, avec notes de terrain.",
+    "immagineUrl": "https://m.media-amazon.com/images/I/41sBeUt5hxL._SS135_.jpg",
+    "linkAmazon": "https://www.amazon.it/dp/8866940860/",
+    "prezzoIndicativo": ""
   }
 ]

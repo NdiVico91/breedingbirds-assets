@@ -1,16 +1,44 @@
 [
   {
-    "nome": "Zinc-plated Canary Cage 'Cova 55' – Metal Bottom, Four Feeders.",
-    "descrizione": "",
+    "nome": "Canary Cage 'Cova 55' Galvanized. Sheet‑metal Base, Four Feeders",
+    "descrizione": "Galvanized metal canary cage, suitable for breeding. Features metal sheet base, removable grid, four feeders and perches—easy to clean and maintain.",
     "immagineUrl": "https://m.media-amazon.com/images/I/51nGSSj7W4L._AC_.jpg",
     "linkAmazon": "https://www.amazon.it/dp/B01F8ZH4P0",
-    "prezzoIndicativo": "€45.99"
+    "prezzoIndicativo": "€45,99"
   },
   {
-    "nome": "Premium food for tropical birds – 1kg",
-    "descrizione": "",
-    "immagineUrl": "https://m.media-amazon.com/images/I/71WxXXXXKPL._AC_SL1500_.jpg",
-    "linkAmazon": "https://www.amazon.it/dp/B08YYYYY/?tag=TUOCODICEAFFILIAZIONE",
-    "prezzoIndicativo": "€12.50"
+    "nome": "Exotic Bird Diamond Nest for Indoor and Outdoor Cage or Aviary",
+    "descrizione": "Nest box designed for exotic diamond birds, usable inside cages or aviaries. Provides shelter and safe space for nesting.",
+    "immagineUrl": "https://m.media-amazon.com/images/I/51pLIXnus7L._AC_SX679_.jpg",
+    "linkAmazon": "https://www.amazon.it/dp/B008PJHGB4/",
+    "prezzoIndicativo": ""
+  },
+  {
+    "nome": "Ferplast Wooden Nest Box for Birds, FSC Wood, Outdoor, 11.5×12.5×12 cm",
+    "descrizione": "Small FSC‑certified wooden nest box by Ferplast, suitable for outdoor use. Ideal for small exotic or wild birds, with ventilation and weather resistance.",
+    "immagineUrl": "https://m.media-amazon.com/images/I/61mU1b7rJPL._AC_SX679_.jpg",
+    "linkAmazon": "https://www.amazon.it/dp/B001N03XHI/",
+    "prezzoIndicativo": ""
+  },
+  {
+    "nome": "SWISSINNO 'Davos' Smart Birds Outdoor Bird Feeder",
+    "descrizione": "Modern outdoor feeder by SWISSINNO ‘Davos’ Smart Birds, designed to attract small wild birds. Robust and easy to refill.",
+    "immagineUrl": "https://m.media-amazon.com/images/I/41j+IgBk0BL._SS135_.jpg",
+    "linkAmazon": "https://www.amazon.it/dp/B0BGT2TW42/",
+    "prezzoIndicativo": ""
+  },
+  {
+    "nome": "TRIXIE Wooden and Rope Bird Toy, 47 cm",
+    "descrizione": "Hanging bird toy made of natural wood and rope (≈ 47 cm). Encourages climbing, swinging and playing—suitable for cage enrichment.",
+    "immagineUrl": "https://m.media-amazon.com/images/I/51VmM4rzTpL._SS135_.jpg",
+    "linkAmazon": "https://www.amazon.it/dp/B0BL7PF3WG/",
+    "prezzoIndicativo": ""
+  },
+  {
+    "nome": "Luca Fabbri – Manual of Ornithology",
+    "descrizione": "Comprehensive Italian ornithology manual by Luca Fabbri. Covers species identification, migratory and resident birds in Italy, with field notes.",
+    "immagineUrl": "https://m.media-amazon.com/images/I/41sBeUt5hxL._SS135_.jpg",
+    "linkAmazon": "https://www.amazon.it/dp/8866940860/",
+    "prezzoIndicativo": ""
   }
 ]

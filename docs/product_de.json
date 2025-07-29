@@ -1,16 +1,44 @@
 [
   {
-    "nome": "Zink-Kanarienvogelkäfig 'Cova 55' – Boden aus Blech, vier Futtertröge.",
-    "descrizione": "",
+    "nome": "Kanarienkäfig 'Cova 55' Verzinkt. Blechboden, Vier Futterspender",
+    "descrizione": "Verzinkter Kanarienkäfig, ideal zur Zucht. Blechboden mit herausnehmbarer Gitter, vier Futterspender und Sitzstangen. Leicht zu reinigen.",
     "immagineUrl": "https://m.media-amazon.com/images/I/51nGSSj7W4L._AC_.jpg",
     "linkAmazon": "https://www.amazon.it/dp/B01F8ZH4P0",
-    "prezzoIndicativo": "45,99 €"
+    "prezzoIndicativo": "€45,99"
   },
   {
-    "nome": "Premiumfutter für tropische Vögel – 1kg",
-    "descrizione": "",
-    "immagineUrl": "https://m.media-amazon.com/images/I/71WxXXXXKPL._AC_SL1500_.jpg",
-    "linkAmazon": "https://www.amazon.it/dp/B08YYYYY/?tag=TUOCODICEAFFILIAZIONE",
-    "prezzoIndicativo": "12,50 €"
+    "nome": "Diamantvogel Nest für exotische Vögel, innen/außen für Käfig oder Voliere",
+    "descrizione": "Nestkasten konzipiert für exotische Diamantvögel, geeignet für Käfig oder Voliere. Bietet sicheren Nistplatz.",
+    "immagineUrl": "https://m.media-amazon.com/images/I/51pLIXnus7L._AC_SX679_.jpg",
+    "linkAmazon": "https://www.amazon.it/dp/B008PJHGB4/",
+    "prezzoIndicativo": ""
+  },
+  {
+    "nome": "Ferplast Nistkasten aus FSC‑Holz für Vögel, Außen, 11,5×12,5×12 cm",
+    "descrizione": "Kleiner Nistkasten aus FSC‑zertifiziertem Holz von Ferplast, wetterfest und robust. Ideal für kleine exotische oder wild lebende Vögel.",
+    "immagineUrl": "https://m.media-amazon.com/images/I/61mU1b7rJPL._AC_SX679_.jpg",
+    "linkAmazon": "https://www.amazon.it/dp/B001N03XHI/",
+    "prezzoIndicativo": ""
+  },
+  {
+    "nome": "SWISSINNO Davos Smart Birds Außen-Vogelhäuschen",
+    "descrizione": "Moderner Außen-Futterspender „Davos“ von SWISSINNO Smart Birds, entwickelt für kleine Wildvögel. Stabil und einfach zu befüllen.",
+    "immagineUrl": "https://m.media-amazon.com/images/I/41j+IgBk0BL._SS135_.jpg",
+    "linkAmazon": "https://www.amazon.it/dp/B0BGT2TW42/",
+    "prezzoIndicativo": ""
+  },
+  {
+    "nome": "TRIXIE Holz‑ und Seilspielzeug für Vögel, 47 cm",
+    "descrizione": "Hängespielzeug aus Naturholz und Seil (~47 cm). Fördert Klettern, Schaukeln und Spiel – ideal zur Belebung der Käfigumgebung.",
+    "immagineUrl": "https://m.media-amazon.com/images/I/51VmM4rzTpL._SS135_.jpg",
+    "linkAmazon": "https://www.amazon.it/dp/B0BL7PF3WG/",
+    "prezzoIndicativo": ""
+  },
+  {
+    "nome": "Luca Fabbri – Ornithologie‑Handbuch",
+    "descrizione": "Umfassendes Ornitologie‑Handbuch von Luca Fabbri aus Italien. Umfasst Artbestimmung, Zug‑ und Standvögel Italiens mit Feldnotizen.",
+    "immagineUrl": "https://m.media-amazon.com/images/I/41sBeUt5hxL._SS135_.jpg",
+    "linkAmazon": "https://www.amazon.it/dp/8866940860/",
+    "prezzoIndicativo": ""
   }
 ]
