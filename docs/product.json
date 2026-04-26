@@ -65,4 +65,15 @@
     },
     "immagineUrl": "https://m.media-amazon.com/images/I/41sBeUt5hxL._SS135_.jpg"
   }
+  {
+    "asin": "B08Y8Q5TTC",
+    "nome": {
+      "it": "Mangiatoia automatica acquario di Measury",
+      "en": "Measury Automatic Aquarium Feeder",
+      "fr": "Distributeur automatique de nourriture pour aquarium Measury",
+      "es": "Alimentador automático para acuario Measury",
+      "de": "Measury Automatischer Fischfutterspender für Aquarien"
+    },
+    "immagineUrl": "https://m.media-amazon.com/images/I/71MIa1jRMIL._AC_SL1500_.jpg"
+  }
 ]
